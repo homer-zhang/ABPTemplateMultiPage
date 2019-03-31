@@ -1,2 +1,5 @@
-# ABPTemplateMultiPage
-ABP project template with zero . versoin 4.3.0,multi page on .net framework
+ASP.NET Boilerplate - Module Zero - Startup Template
+----------------------------------------------------
+
+This project is aimed to be a starter template for ABP and module zero.
+You can create your project on http://www.aspnetboilerplate.com/Templates
